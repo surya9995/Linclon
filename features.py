@@ -1,2 +1,1 @@
-
-mi mama
+Lines 1–4: It sets up the game by generating a random target number between 1 and 100.Lines 5–9: A short for loop gives you exactly 6 attempts, takes your input, and uses a concise inline if-else statement to give you a hint ("Too high!" or "Too low!").Line 10: Python's clever for...else block triggers only if you completely run out of guesses without hitting the break statement.What kind of program are you looking to build? If you have a specific goal in mind, I can share a 10-line script for web scraping, data analysis, or file automation instead!
